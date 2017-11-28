@@ -1509,7 +1509,7 @@
             },
         },
         {
-            name: "PIVX - PIVX",
+            name: "PIV - PIVX",
             segwitAvailable: false,
             onSelect: function() {
                 network = bitcoinjs.bitcoin.networks.pivx;
