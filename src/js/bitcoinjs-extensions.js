@@ -213,9 +213,9 @@ bitcoinjs.bitcoin.networks.pivx = {
     public: 0x022d2533,
     private: 0x0221312b
   },
-  pubKeyHash: 0x1e,
-  scriptHash: 0x0d,
-  wif: 0xd4
+  pubKeyHash: 0x1e, 	//30
+  scriptHash: 0x0d, 	//13
+  wif: 0xd4		//212
 };
 
 bitcoinjs.bitcoin.networks.pivxtestnet = {
